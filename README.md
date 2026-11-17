@@ -12,7 +12,7 @@ Invites to the bot for each platform can be found on their respective pages.
 Similar bots already exist on Discord: Tupperbox is normally used for roleplay, and Pluralkit is mostly used to manage plural systems. There was quickly demand for a similar function on [Fluxer](/fluxer). FishingBucket aims to be useful for both of these things, and to be the best proxy bot on its available platforms. To achieve this, any new features should be as use case-agnostic and as general as possible.
 
 ## Features
-A full list of the features of FishingBucket can be found [here](/features/index.md). The highlights can be found here!
+A full list of the features of FishingBucket can be found [here](/features/index.md). The highlights can be found below.
 
 ## Getting Started
 The getting started page for FishingBucket can be found [here](/gettingStarted.md). 
