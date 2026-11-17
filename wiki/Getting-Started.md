@@ -61,6 +61,8 @@ where `proxies` is the name or ID of the proxy to set.
 To automatically proxy messages as the spotlight, the syntax would be:
 
 `fish!autoproxy spotlight`
+
+More commands related to adding and removing spotlights and managing multiple spotlights can be found by the command `fish!help spotlight_commands`.
 ### Autoproxy Scope
 ## Adding Tags
 Tags are a way of organizing and grouping proxies. They can be created and adjusted in the [Web Dashboard](https://fishingbucket.org/dashboard), or using the command `fish!tag`.  
