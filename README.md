@@ -1,6 +1,6 @@
 # FishingBucket
 ## Abstract
-FishingBucket is a multi-platform bot that allows users to create and manage *proxies*, allowing themselves to chat as another profile.
+FishingBucket is a multi-platform bot that allows users to create and manage *proxies*, which can be used to chat as various profiles.
 
 This bot is currently available on [Fluxer](/fluxer) and [Discord](/discord).
 
@@ -9,13 +9,7 @@ This bot is currently available on [Fluxer](/fluxer) and [Discord](/discord).
 Invites to the bot for each platform can be found on their respective pages.
 
 ## Motivation
-The main motivation for FishingBucket's existence is the lack of a similar bot on the [Fluxer](/fluxer) platform. As Fluxer was quite new, a lack of such bot was guaranteed. However, due to the existence of similar bots on Discord, the demand for this type of service is ever-present.
-
-The initial days of Fluxer's existence was marked with a variety of people advocating for such bot, and this situation was only made worse by waves of influxes of new users. Therefore, FishingBucket was established swiftly.
-
-The absurd brand of FishingBucket and its neutrality of its use cases were established due to observed concerns with similar bots on Discord &mdash; Tupperbox was commonly seen as a roleplaying bot, and PluralKit was commonly seen as a plural bot. While those are all valid use cases, the segregation of use cases by the community was something that divided the global Discord proxy bot userbase.
-
-FishingBucket aims to be the best proxy bot on its available platforms, unifying the previously-divided userbase of proxy bots. To achieve this, a primary objective of any new feature is to be as use case-agnostic and as general as possible.
+Similar bots already exist on Discord: Tupperbox is normally used for roleplay, and Pluralkit is mostly used to manage plural systems. There was quickly demand for a similar function on [Fluxer](/fluxer). FishingBucket aims to be useful for both of these things, and to be the best proxy bot on its available platforms. To achieve this, any new features should be as use case-agnostic and as general as possible.
 
 ## Features
 A full list of the features of FishingBucket can be found [here](/features/index.md). The highlights can be found here!
