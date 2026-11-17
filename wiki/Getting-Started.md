@@ -49,7 +49,7 @@ Latch mode automatically proxies all messages as the last proxy triggered. For i
 
 To enable latch mode globally (in all communities), send the command `fish!autoproxy latch`. To enable latch mode in the current community, send the command `fish!autoproxy latch community`. To enable latch mode globally, but automatically disable it after 2 hours, send the command `fish!autoproxy latch global 2h`.
 ### Proxy Setting
-Proxy mode automatically proxies all messages as one specific proxy. For instance, if you set Bob as the autoproxy by running `fish!autoproxy proxy`, then send a message as Proxy McProxyFace `pmp: Hi everyone!`, then send another message `How are you?`, the last message will be automatically proxied as Bob.
+Proxy mode automatically proxies all messages as one specific proxy. For instance, if you set Bob as the autoproxy by running `fish!autoproxy Bob`, then send a message as Proxy McProxyFace `pmp: Hi everyone!`, then send another message `How are you?`, the last message will be automatically proxied as Bob.
 ### Spotlight Setting
 Spotlight mode is an alternative to proxy mode which can be used to quickly change the autoproxy target. Multiple proxies can be in the spotlight at the same time, in which case the first spotlight will always be autoproxied. Plural users can employ multiple spotlights to track [co-fronting](https://pluralpedia.org/w/Co-fronting) status. To use spotlight mode, you have to first set a proxy (or several proxies) as your account's spotlight.
 To set a proxy as the spotlight, the syntax would be:
